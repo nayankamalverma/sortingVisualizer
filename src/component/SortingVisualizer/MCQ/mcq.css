@@ -1,0 +1,46 @@
+*{
+    /* border:1px solid red; */
+}
+/*
+.card {
+    position: absolute;
+    z-index: 1;
+width: 25px ;
+background-color: #cab9c9;
+border: 3px solid green;
+border-radius: 7px;
+padding: 45px;
+box-shadow: 0 2px 4px rgba(0,0,0,.1);
+
+}
+
+.card p{
+font-size: 22px;
+margin: 0 0 10px;
+// border:3px solid pink; 
+}
+
+.card ul {
+list-style: none;
+margin: 0;
+padding: 20px;
+}
+
+.card ul li {
+margin-bottom: 30px;
+}
+
+.card label {
+display: inline-block;
+margin-left: 5px;
+font-size: 20
+2px;
+}
+
+
+.card input[type="radio"] {
+margin-right: 5px;
+}
+.mcq{
+    flex-direction: column;
+}*/
